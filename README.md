@@ -1,5 +1,6 @@
 <h1>Hi there 👋, I'm Muhammad Abdulaziz! <br/><!--<a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a><--></h1>
 
+<!--
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -39,7 +40,7 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 
-<!--
+
 **muhdaziz/muhdaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
